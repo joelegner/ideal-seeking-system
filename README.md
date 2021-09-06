@@ -1,5 +1,9 @@
 # Ideal-Seeking System
 
+## Purpose
+
+The purpose of the Ideal-Seeking System is to set [Goals] pointed to a set of [Ideals] according to stated [Values] by using [Resources] to execute [Processes] to establish and achieve [SMART Objectives].
+
 ## Ideals
 
 Ideals are aspirations that are never going to be achieved.
@@ -13,13 +17,13 @@ The first one might be considered primary. The second one is to mitigate against
 
 Goals are long-term without strict acceptance criteria.
 
-See [Mind Map] for a list of goals.
+See **Mind Map** for a list of goals.
 
 ## Objectives
 
 Each objective has a due date less than 1 year away. Anything longer than that should be re-categorized as a goal or split into smaller objectives that will not take more than a year to achieve.
 
-See [Mind Map] for a list of objectives.
+See **Mind Map** for a list of objectives.
 
 ## Creator
 
@@ -69,13 +73,33 @@ Refer to the separate `LICENSE` file.
 
 ```
 Ideal-Seeking System Components
-    Ideal
+    Purpose
+        To achieve goals pointed toward ideals according to values by using resources to execute processes to establish and achieve SMART Objectives
+    Ideals
         All beings without suffering
         All beings content
     Goals
         The most value-added ideals to seek
         The most effective use of resources
         Helpful system documentation
+    Values
+        Existence of the Ideal-Seeking System
+        Improvements to the system
+        Continual improvement
+        Well-Being
+            Freedom from suffering
+            Safety
+            Opportunities to thrive
+        Integrity
+        Understanding
+        Inclusion
+        Knowledge
+        Teaching
+        Learning
+        Ingenuity
+        Insight
+        Thrift
+        Kindness
     SMART Objectives
         Objective 1
             List of ideals, goals, and SMART objectives posted to Github repository
