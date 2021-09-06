@@ -23,11 +23,15 @@ September 5, 2021
 
 ### Documentation
 
-In addition to this README file, there is a mind map of the system, available in several formats.
+In addition to this `README.md` and `LICENSE` files, there is a mind map of the system, available in several formats.
 
 ![Mind Map](images/ideal-seeking-system.png)
 
 [Outline of Mind Map](ideal-seeking-system.txt)
+
+### File Repository
+
+[`https://github.com/joelegner/ideal-seeking-system`](https://github.com/joelegner/ideal-seeking-system)
 
 ## Inputs
 
