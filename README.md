@@ -81,6 +81,8 @@ Ideal-Seeking System Components
             List of ideals, goals, and SMART objectives posted to Github repository
             Due: September 12, 2021
             Status: In Progress
+            Acceptance Criteria:
+                4-7 SMART objectives added
     Processes
         Planning Process
             "Joe plans"
