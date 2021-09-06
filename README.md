@@ -46,6 +46,11 @@ In addition to this `README.md` and `LICENSE` files, there is a mind map of the 
 
 ![Mind Map](images/ideal-seeking-system.png)
 
+### Systems View
+
+![Generic System Model](images/generic-system-diagram.png)
+
+
 ### File Repository
 
 [`https://github.com/joelegner/ideal-seeking-system`](https://github.com/joelegner/ideal-seeking-system)
