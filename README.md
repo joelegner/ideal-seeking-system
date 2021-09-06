@@ -1,5 +1,11 @@
 # Ideal-Seeking System
 
+## Ideals to Seek
+
+1. The most-value added ideals to seek.
+1. The most effective use of resources.
+1. Helpful system documentation.
+
 ## Author
 
 Joe Legner, Valrico, Florida
@@ -24,6 +30,12 @@ In addition to this README file, there is a mind map of the system, available in
 ## Inputs
 
 - Labor of Joe Legner.
+
+## Processes
+
+### Anki Cards Export Process
+
+![Anki Card Export Dialog](images/anki-export-dialog.png)
 
 ## Outputs
 
