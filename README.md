@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of the Ideal-Seeking System is to set **Goals** pointed to a set of **Ideals** according to stated **Values** by using **Resources** to execute **Processes** to establish and achieve **SMART Objectives**.
+To employ resources to execute processes to establish ideals, values, goals, and objectives to achieve SMART Objectives in ways that do not violate our ideals or values.
 
 ## Ideals
 

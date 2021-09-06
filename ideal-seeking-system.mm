@@ -1,8 +1,11 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1630625814506" ID="ID_1999080933" MODIFIED="1630896610618" TEXT="Ideal-Seeking System Components">
+<node CREATED="1630625814506" ID="ID_1999080933" MODIFIED="1630896630346" TEXT="Ideal-Seeking System Components">
 <node CREATED="1630896377108" ID="ID_1362208391" MODIFIED="1630896613200" POSITION="right" TEXT="Purpose">
 <node CREATED="1630896379275" ID="ID_243562128" MODIFIED="1630896430246" TEXT="To achieve goals pointed toward ideals according to values by using resources to execute processes to establish and achieve SMART Objectives"/>
+<node CREATED="1630896889627" ID="ID_368134644" MODIFIED="1630897114455" TEXT="To employ resources to execute processes to establish ideals, values, goals, and objectives, and also to achieve SMART Objectives in ways that do not violate our ideals or values.">
+<node CREATED="1630897154011" MODIFIED="1630897154011" TEXT="To employ resources to execute processes to establish ideals, values, goals, and objectives to achieve SMART Objectives in ways that do not violate our ideals or values."/>
+</node>
 </node>
 <node CREATED="1630894729419" ID="ID_1914397290" MODIFIED="1630896615882" POSITION="right" TEXT="Ideals">
 <node CREATED="1630894743747" ID="ID_1136325379" MODIFIED="1630894811519" TEXT="All beings without suffering"/>
