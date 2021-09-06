@@ -6,7 +6,7 @@
 1. The most effective use of resources.
 1. Helpful system documentation.
 
-## Author
+## Creator
 
 Joe Legner, Valrico, Florida
 
@@ -26,6 +26,8 @@ September 5, 2021
 In addition to this README file, there is a mind map of the system, available in several formats.
 
 ![Mind Map](images/ideal-seeking-system.png)
+
+[Outline of Mind Map](ideal-seeking-system.txt)
 
 ## Inputs
 
