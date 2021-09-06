@@ -1,10 +1,25 @@
 # Ideal-Seeking System
 
-## Ideals to Seek
+## Ideals
 
-1. The most-value added ideals to seek.
-1. The most effective use of resources.
-1. Helpful system documentation.
+Ideals are aspirations that are never going to be achieved.
+
+1. All beings free from suffering.
+1. All beings content.
+
+The first one might be considered primary. The second one is to mitigate against the risk of the system developing into the equivalent of the Marvel supervillian Thanatos, but not stopping with one-half of beings.
+
+## Goals
+
+Goals are long-term without strict acceptance criteria.
+
+See [Mind Map] for a list of goals.
+
+## Objectives
+
+Each objective has a due date less than 1 year away. Anything longer than that should be re-categorized as a goal or split into smaller objectives that will not take more than a year to achieve.
+
+See [Mind Map] for a list of objectives.
 
 ## Creator
 
@@ -26,8 +41,6 @@ September 5, 2021
 In addition to this `README.md` and `LICENSE` files, there is a mind map of the system, available in several formats.
 
 ![Mind Map](images/ideal-seeking-system.png)
-
-[Outline of Mind Map](ideal-seeking-system.txt)
 
 ### File Repository
 
@@ -51,3 +64,58 @@ In addition to this `README.md` and `LICENSE` files, there is a mind map of the 
 ## License
 
 Refer to the separate `LICENSE` file.
+
+## Appendix A: Outline from Mind Map
+
+```
+Ideal-Seeking System Components
+    Ideal
+        All beings without suffering
+        All beings content
+    Goals
+        The most value-added ideals to seek
+        The most effective use of resources
+        Helpful system documentation
+    SMART Objectives
+        Objective 1
+            List of ideals, goals, and SMART objectives posted to Github repository
+            Due: September 12, 2021
+            Status: In Progress
+    Processes
+        Planning Process
+            "Joe plans"
+        Decision-Making Process
+            "Joe decides"
+            Ideal-Choosing Process
+                "Joe decides"
+        Control Process
+            "Joe controls"
+            Daily Contribution Process
+        Improvement process
+            "Joe improves"
+    History
+        Creator
+            Joe Legner
+        Creation Date
+            September 5, 2021
+    Resources
+        Daily Apple Reminder
+            "Contribute to the ideal-seeking system"
+        Joe Legner
+        Mac Mini 2020
+        Mac Mini 2020 Software
+            Mac OS
+            FreeMind Software
+            VS Code Software
+            Apple Software
+            Git Client
+        Documentation
+            README.md
+            Images
+                ideal-seeking-system.png
+            Ideal-Seeking System.mm
+            Ideal-Seeking System.pdf
+    Inputs
+    Outputs
+    Side-Effects
+```
